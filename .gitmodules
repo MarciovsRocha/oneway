@@ -1,0 +1,6 @@
+[submodule "oneway-front"]
+	path = oneway-front
+	url = git@github.com:MarciovsRocha/oneway-front.git
+[submodule "oneway-back"]
+	path = oneway-back
+	url = git@github.com:MarciovsRocha/oneway-back.git
